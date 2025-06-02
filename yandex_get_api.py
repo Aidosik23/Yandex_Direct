@@ -6,8 +6,8 @@ from io import StringIO
 
 # --- Настройки ---
 ReportsURL = "https://api.direct.yandex.com/json/v5/reports"
-token = "y0__xCY8YP8Bxj47zYgpP2-6hIiWntfZaEYZnt4jPil_DMmFtsWjQ"
-clientLogin = "megakg25"
+token = "token"
+clientLogin = "login"
 output_file = r"C:/python scripts/load_to_stg_raw/yandex_api/result/yandex_account_stats.xlsx"
 
 # --- Заголовки ---
