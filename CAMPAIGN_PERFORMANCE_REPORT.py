@@ -7,8 +7,8 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # --- Настройки ---
 ReportsURL = "https://api.direct.yandex.com/json/v5/reports"
-token = "y0__xCY8YP8Bxj47zYgpP2-6hIiWntfZaEYZnt4jPil_DMmFtsWjQ"
-clientLogin = "megakg25"
+token = "token"
+clientLogin = "login"
 output_file = r"C:/python scripts/load_to_stg_raw/yandex_api/result/Отчеты/final_report/CAMPAIGN_PERFORMANCE_REPORT.xlsx"
 
 # --- Заголовки ---
